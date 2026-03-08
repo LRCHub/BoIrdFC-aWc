@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ストロボ",
+  "base_artist": "空白ごっこ",
+  "createdAt": "2026-03-08T07:18:06.641003Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ストロボ",
+      "artist": "Kohmi Hirose",
+      "has_synced": false,
+      "path": "select/01_ストロボ_Kohmi_Hirose.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ストロボ",
+      "artist": "Kohmi Hirose",
+      "has_synced": false,
+      "path": "select/02_ストロボ_Kohmi_Hirose.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ストロボ - 07' Remastering",
+      "artist": "Kohmi Hirose",
+      "has_synced": true,
+      "path": "select/03_ストロボ_-_07'_Remastering_Kohmi_Hirose.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ストロボ - 09' Remastering",
+      "artist": "Kohmi Hirose",
+      "has_synced": false,
+      "path": "select/04_ストロボ_-_09'_Remastering_Kohmi_Hirose.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ストロボ",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/05_ストロボ_yama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ストロボ",
+      "artist": "広瀬香美",
+      "has_synced": true,
+      "path": "select/06_ストロボ_広瀬香美.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ストロボ",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/07_ストロボ_yama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ストロボ (remixture)",
+      "artist": "広瀬香美",
+      "has_synced": false,
+      "path": "select/08_ストロボ_(remixture)_広瀬香美.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストロボ",
+      "artist": "空白ごっこ",
+      "has_synced": false,
+      "path": "select/pl_01_ストロボ_空白ごっこ.txt"
+    }
+  ]
+}
